@@ -1,0 +1,7 @@
+C:\Users\Sue\source\repos\SortTest\SortTest\bin\Debug\SortTest.exe.config
+C:\Users\Sue\source\repos\SortTest\SortTest\bin\Debug\SortTest.exe
+C:\Users\Sue\source\repos\SortTest\SortTest\bin\Debug\SortTest.pdb
+C:\Users\Sue\source\repos\SortTest\SortTest\obj\Debug\SortTest.csprojResolveAssemblyReference.cache
+C:\Users\Sue\source\repos\SortTest\SortTest\obj\Debug\SortTest.csproj.CoreCompileInputs.cache
+C:\Users\Sue\source\repos\SortTest\SortTest\obj\Debug\SortTest.exe
+C:\Users\Sue\source\repos\SortTest\SortTest\obj\Debug\SortTest.pdb
